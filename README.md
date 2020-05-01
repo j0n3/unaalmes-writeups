@@ -6,7 +6,7 @@ Write-ups for UAM challenges.
 https://unaalmes.hispasec.com
 
 # Submissions
-If you want to add your writeup, please read our [CONTRIB.md](CONTRIB.md) guidelines.
+If you want to add your writeup, please read our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines.
 
 # Contact
 You can contact to UAM administrators by Telegram or email.
