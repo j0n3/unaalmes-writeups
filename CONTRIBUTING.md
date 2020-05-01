@@ -29,7 +29,7 @@ It can contain your writeup (pdf or txt format, please) and any other scripts or
 
 ![local folder](/images/local-folder.png) 
 
-#### Use github web to navigate through your forked repo to the writeups/challenge/episode
+#### Use github web to navigate through your forked repo to the writeups/challenge/episode folder
 
 ![find challenge folder](/images/navigate-to-challenge.png)
 
